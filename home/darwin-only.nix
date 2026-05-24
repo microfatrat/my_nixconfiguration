@@ -1,4 +1,4 @@
-# macOS 专有 Home Manager 配置
+# macOS-specific Home Manager configuration
 { pkgs, ... }:
 {
   imports = [
@@ -6,6 +6,6 @@
   ];
 
   home.packages = with pkgs; [
-    # macOS 独有工具
+    # macOS-only tools
   ];
 }

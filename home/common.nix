@@ -1,5 +1,5 @@
-# 跨平台用户共享配置（Home Manager）
-# NixOS、macOS、其他 Linux 发行版通用
+# Cross-platform Home Manager configuration
+# Shared across NixOS, macOS, and other Linux distributions
 { ... }:
 {
   imports = [

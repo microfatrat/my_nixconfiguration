@@ -1,5 +1,5 @@
-# macOS 共享配置（nix-darwin）
-# 需要安装 nix-darwin 后才生效
+# macOS system configuration (nix-darwin)
+# Requires nix-darwin to be installed
 { ... }:
 {
   # 系统偏好

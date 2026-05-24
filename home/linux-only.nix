@@ -1,7 +1,7 @@
-# Linux 专有 Home Manager 配置
+# Linux-specific Home Manager configuration
 { pkgs, ... }:
 {
   home.packages = with pkgs; [
-    # Linux 独有工具
+    # Linux-only tools
   ];
 }

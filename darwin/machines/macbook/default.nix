@@ -1,4 +1,4 @@
-# MacBook 特有配置
+# MacBook-specific configuration
 { ... }:
 {
   # networking.hostName = "macbook";

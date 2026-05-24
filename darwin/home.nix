@@ -1,4 +1,4 @@
-# macOS 的 Home Manager 入口
+# macOS Home Manager entry point
 { ... }:
 {
   imports = [

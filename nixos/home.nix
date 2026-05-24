@@ -1,4 +1,4 @@
-# NixOS 的 Home Manager 入口
+# NixOS Home Manager entry point
 { ... }:
 {
   imports = [

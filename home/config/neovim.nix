@@ -1,5 +1,5 @@
-# Neovim 用户配置
-# 系统已装 neovim，这里只放个人偏好
+# Neovim user configuration
+# Package installed at system level via nixos/common.nix
 { ... }:
 {
   programs.neovim = {

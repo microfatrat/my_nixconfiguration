@@ -1,4 +1,4 @@
-# Hyper-V 虚拟机配置
+# Hyper-V VM configuration
 { config, ... }:
 {
   imports = [
